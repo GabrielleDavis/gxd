@@ -1,0 +1,51 @@
+---
+title: "The Blog Spot!"
+---
+
+------------------------------------------------------------------------
+
+## My Thoughts on Jeffrey Leek’s Advice and Tips for Becoming a Better Presenter in Scientific Talks
+
+------------------------------------------------------------------------
+
+#### Entry #1 - March 11th, 2025
+
+In this blog post, I want to reflect on some key takeaways from *How to Be a Modern Scientist* by Jeffrey Leek, specifically the chapter on “Scientific Talks.” This chapter offers valuable information about effective communication in scientific presentations. Below, I’ve listed excerpts that stood out to me, and my thoughts on each of them.
+
+1.  "Entertain, don’t teach" (Leek, 2016, p. 57).
+
+2.  "There is no way people will write down any of the links in your talk" (Leek, 2016, p. 59).
+
+3.  "Explain the figure axes" (Leek, 2016, p. 60).
+
+4.  "Say I don’t know if you don’t know. If you say I don’t know, then you can give your best guess and explain it is a guess" (Leek, 2016, p. 61).
+
+5.  "Almost everywhere you give a talk there will be a person who is upset/intense/aggressive. Do not fall into the temptation to be aggressive in return" (Leek, 2016, p.62).
+
+A majority of the presentations I have done have been poster presentations, or a journal club presentation. However, I did get the opportunity to present my work as an oral presentation. As I transition into graduate school, I’ve been curious about what it’s like to be a keynote speaker. If someone is selected for an oral presentation at a large-scale event, how can they ensure their message is delivered in a clear and concise way?
+
+The first bullet point resonated with me because I’ve seen people fall asleep during formal and informal seminars, even short ones. One crucial lesson I’ve learned is that you must know your audience. It’s important to keep them engaged by making sure they understand the problem you’re addressing and the strategies for solving it. According to Leek (2016), it’s nearly impossible to explain a complex idea in under an hour (p. 59), so keeping talks simple and clear is key. I always try to engage the audience by focusing on the core problem and answering questions effectively.
+
+Another except I found useful was the discussion on links in presentations. Leek (2016) points out that people won’t write down URLs from the presentation (p.59) , which makes sense. Instead of including long links, I’ve found that QR codes work much better. I’ve used them in past presentations to compile my contact information, CV, and slides into one scannable document. This approach allows my audience to access relevant resources without having to manually type or write down anything.
+
+Leek also emphasizes the importance of figures in presentations. Using more visuals than text can help convey information more effectively. One critical point Leek (2016) makes is the need to explain what the figure’s axes represent (p. 60), something that is often overlooked. I’ve learned that defining the axes is important because it helps the audience understand how the figure connects to the data. Also, it makes complex information easier to interpret. In my presentations, I like to incorporate a key next to the figure, allowing audience members to understand what each part of the graph represents. I prioritize this because I recognize that my audience comes from diverse research backgrounds.
+
+One of the most valuable lessons I took from this chapter is how to handle difficult audience members. I struggle with presentation anxiety, even though I enjoy sharing my research. I’ve encountered situations where someone in the audience became aggressive, and I did my best to manage it. Leek suggests responding with something like:
+
+```         
+“You are bringing up a lot of good issues, I’d be happy to discuss with you after the presentation more in depth, but in the interest of time I’m going to move on to the next part of my talk” (Leek,2016,p. 62).
+```
+
+This strategy is effective because it acknowledges the audience member’s concerns while keeping the presentation on track. In the future, if I encounter another situation like this, I'll definitely keep this response in mind. I've noticed that disruptive audience members can happen at anytime. So learning how to navigate the situation makes me feel more confident about future presentations.
+
+Overall, Leek’s chapter on scientific talks is valuable for researchers at all career stages. **Science is constantly evolving, and new fields are emerging, making it essential to communicate our findings clearly and effectively**. Leek provides practical strategies to make sure that presentations are engaging, concise, and well-structured. His advice not only helps presenters clarify their scientific data but also ensures that the speaker feels confident and in control.
+
+Cheers!
+
+Gabrielle D.
+
+------------------------------------------------------------------------
+
+Citation:
+
+Leek, J. (2016). *How To Be A Modern Scientist* . Leanpub.

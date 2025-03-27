@@ -1,0 +1,111 @@
+---
+title: Projects
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Impact of Insulin and Non-Insulin Diabetic Treatment on Cancer Incidence in Patients Diagnosed with Type 2 Diabetes
+
+### Date: July 2024 - Present
+
+### Description:
+
+Currently, we are in investigating the impact of insulin and non-insulin
+diabetic treatments on cancer incidence in patients diagnosed with type
+2 diabetes. We have utilized the TriNetX platform to conduct a
+retrospective cohort study consisting of two groups. Both groups include
+individuals diagnosed with type 2 diabetes; however, one group is
+treated with GLP-1, while the other is treated with insulin. Our goal is
+to determine whether GLP-1, a newer diabetes medication, reduces the
+risk of obesity-associated cancers and how this outcome varies based on
+demographic factors such as sex, race, and age.
+
+#### **Abstract:**
+
+*Globally, the Global Burden of Disease estimated more than 462 million
+people were affected by Type 2 Diabetes (T2D), a metabolic disorder, and
+projected the prevalence rate to increase from 6,059 T2D cases per
+100,000 in 2017 to 7,079 per 100,000 in 2030. Effective management of
+T2D consists of insulin therapy and other anti diabetic (non-insulin)
+treatments prescribed by a healthcare professional. Currently, nearly
+one million deaths are attributed to T2D, and when left unmanaged, it
+contributes to elevated risks for diabetic nephropathy, diabetic
+retinopathy, and periodontal disease. The relationship between T2D and
+cancer is more complicated where previous publications report an
+elevated risk for liver and pancreas cancer and a decreased risk for
+breast and prostate cancer. The driver of these associations is
+unclear - T2D treatments or the disease. Here, we address a scientific
+gap quantifying strata-specific associations between T2D therapies and
+cancer risk by sex, self-reported race, and clinical-demographic factors
+(i.e. years of T2D, age of cancer onset, cancer stage, etc.). We
+hypothesize that T2D treatment profiles mediate cancer risk differently
+by cancer site, and more importantly by known cancer risk factors. We
+are developing a retrospective cohort using TriNetX, a real-world
+electronic health record database, to assess the correlation between T2D
+treatment profiles (insulin vs non-insulin) and cancer risk. In the
+United States, patients over the age of 18, diagnosed with T2D prior to
+the index period, and prescribed T2D medications during the index period
+(2005 -2018) are observed for a cancer outcome. The T2D prescription
+cohorts (e.g. insulin vs non-insulin) are propensity score matched (1:1)
+based on factors such as sex, self-reported race, and other demographic
+variables, and hazard ratios (95% confidence intervals) were computed to
+determine associations. Strata-specific results are presented. Our
+findings will determine the impact of T2D management on cancer risk
+across several risk strata and elucidate the scope of T2D therapy on
+individual cancer risk. Our analytical strategy to assess
+strata-specific effects will be used to inform cancer screening and
+prevention strategies for targeted at-risk populations and further
+advance the concept of personalized medicine.*
+
+------------------------------------------------------------------------
+
+## Toxin Sequestration and Natural Predators of the Spotted Lantern Fly
+
+### Date: May 2023 - August 2023
+
+**Description:**
+
+We researched toxin sequestration and natural predators of the spotted
+lanternfly. To conduct the experiment, we set up nest boxes in various
+locations across Penn State’s main campus. At each nest box, we observed
+bird species, primarily house wrens, and their interactions with spotted
+lanternflies, which were reared from either the tree of heaven (TOH) or
+grapevines. Lanternflies reared from TOH sequestered toxins and were
+unpalatable to various natural predators. If the pest was reared from a
+grapevine, it did not undergo toxin sequestration. We monitored the nest
+boxes to determine whether the birds consumed, discarded, or fed the
+spotted lanternflies reared from the TOH to their chicks. After the
+observation period, we compiled our data using Excel and R. Due to the
+limited time I was there, a longer data collection period would be
+necessary to increase the sample size and confirm our results.
+
+Abstract:
+
+*The rapid expansion of the invasive spotted lanternfly (Lycorma
+delicatula, SLF) across the northeastern and mid-Atlantic states in the
+USA has markedly impacted the grape, forest, and ornamental industries,
+requiring a massive effort to decrease SLF populations and its economic
+impacts. The primary approach to manage SLF has been the use of
+synthetic insecticides, which can have negative effects on non-target
+arthropods, the environment, and humankind. Natural enemies such as
+predators could offer a safer management strategy. However, SLF
+sequester toxins from their preferred host, tree of heaven (Ailanthus
+altissima, TOH), which can render these pests unpalatable to some types
+of predators. Using SLF reared on TOH or grapevines (an alternative
+preferred host), we conducted a study to determine if birds could
+distinguish between SLF that had fed on TOH vs. grape, and if so, would
+they show a preference for SLF fed on grape. We observed nest boxes used
+by several bird species to see if the birds would eat SLF provided in
+cups on top of the boxes, feed them to their young, or dispose of them
+(drop them on the ground). Then using the statistical package R, we
+compared birds’ behavior on the two different SLF diets using Chi-square
+tests. Although our research is not complete, we predict that birds will
+feed more on SLF that have not had access to TOH to their chicks than
+the SLF that had access to TOH. In our study, we will focus on the adult
+bird’s behavior, and observe if they consume the SLF, feed the SLF to
+their chicks, or discard the SLF. Watching the bird’s behavior will
+allow us to determine if they are natural predators against the SLF
+population.*
+
+------------------------------------------------------------------------
